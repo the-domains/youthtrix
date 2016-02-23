@@ -1,7 +1,8 @@
 layout_spectrum: 0.727888
+typography_spectrum: 0.8686814
 color:
-  saturation: 0.7006042
-  lightness: 0.6658271
+  saturation: 0.8609022
+  lightness: 0.6611171
   brandStrength: 0.9516284
   brandColors:
     - '#181818'
@@ -10,5 +11,4 @@ color:
     - '#88928F'
     - '#A3CFC6'
   rhythmicContrast: 0.4381304
-typography_spectrum: 0.8686814
 name: YouthTrix
